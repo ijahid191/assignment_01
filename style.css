@@ -127,6 +127,7 @@ hr{
     background-color: rgb(253, 253, 224);
 }
 footer{
+    margin-top: 20%;
     text-align: center;
     padding: 3px;
     background-color: black;
