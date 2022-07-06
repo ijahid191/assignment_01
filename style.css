@@ -1,0 +1,133 @@
+#back_ground{
+    background-image: url("images/donation1.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: cover;
+    height: 100%;
+    margin: 0;
+  
+    
+    
+    
+}
+body,html{
+    height: 100%;
+}
+.donate{
+    text-align: center;
+    padding-top: 20%;
+}
+#size{
+    color: white;
+    font-size: 65px;
+    padding-left: 22%;
+    padding-right: 22%;
+}
+#paragraph{
+    color: white;
+    font-size: 25px;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+.button{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 15px 32px;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    
+    
+}
+.back_white{
+    background-color: white;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: cover;
+    height: 100%;
+  
+    
+    
+    
+}
+.don_today{
+    text-align: center;
+    padding-top: 5%;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.box{
+   
+    width: 5%;
+   
+    margin-left: 1%;
+    padding: 60px;
+
+    background-color: rgb(244, 248, 248);
+    color: rgb(141, 140, 140);
+    font-size: 35px;
+    font-weight: 700;
+    border-radius: 4%;
+    
+    
+   
+}
+hr{
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
+.box1{
+   
+    width: 5%;
+   
+    margin-left: 1%;
+    padding: 60px;
+
+    background-color: rgb(245, 204, 204);
+    color: rgb(253, 103, 103);
+    font-size: 35px;
+    font-weight: 700;
+    border: solid;
+    border-radius: 4%;
+    
+    
+   
+}
+.food{
+    width: 60%;
+   
+    margin-left: 3%;
+    margin-right: 1%;
+    padding: 80px;
+
+    background-color: rgb(213, 255, 255);
+   
+    
+}
+.shelter{
+    width: 60%;
+   
+    margin-left: 3%;
+    margin-right: 1%;
+    padding: 80px;
+
+    background-color: rgb(239, 223, 255);
+}
+.education{
+    width: 60%;
+   
+    margin-left: 3%;
+    margin-right: 1%;
+    padding: 80px;
+
+    background-color: rgb(253, 253, 224);
+}
+footer{
+    text-align: center;
+    padding: 3px;
+    background-color: black;
+}
